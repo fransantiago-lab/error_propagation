@@ -45,7 +45,7 @@ This command will print a DataFrame that includes the original columns along wit
 
 # References
 
-* Anderson, G. M.,\textit{Error propagation by the Monte Carlo method in geochemical calculations}, Geochimica et Cosmochimica Acta, 40(12), 1533-1538. https://doi.org/10.1016/0016-7037(76)90092-2, 1976.
+* Anderson, G. M., *Error propagation by the Monte Carlo method in geochemical calculations, Geochimica et Cosmochimica Acta, 40(12), 1533-1538. https://doi.org/10.1016/0016-7037(76)90092-2, 1976.
 * Bevington, Philip R., y D. Keith Robinson. *Data Reduction and Error Analysis for the Physical Sciences*. 3ra ed., McGraw-Hill, 2003.
 
 
