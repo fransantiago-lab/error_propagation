@@ -1,4 +1,4 @@
-# Monte Carlo Error Propagation
+# Python Code for Error Propagation Algorithms Using Monte Carlo Simulations and Other Methods
 
 This project implements an error propagation method using Monte Carlo simulations. It is based on the theory that the uncertainties of a mathematical function can be estimated through the simulation of its input variables.
 
